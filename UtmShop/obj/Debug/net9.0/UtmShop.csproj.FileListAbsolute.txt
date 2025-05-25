@@ -64,3 +64,4 @@ C:\Users\danie\Desktop\HTTP\UtmShop\obj\Debug\net9.0\refint\UtmShop.dll
 C:\Users\danie\Desktop\HTTP\UtmShop\obj\Debug\net9.0\UtmShop.pdb
 C:\Users\danie\Desktop\HTTP\UtmShop\obj\Debug\net9.0\UtmShop.genruntimeconfig.cache
 C:\Users\danie\Desktop\HTTP\UtmShop\obj\Debug\net9.0\ref\UtmShop.dll
+C:\Users\danie\Desktop\HTTP\UtmShop\obj\Debug\net9.0\UtmShop.sourcelink.json

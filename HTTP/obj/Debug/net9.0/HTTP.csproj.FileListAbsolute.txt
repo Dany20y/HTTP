@@ -26,3 +26,4 @@ C:\Users\danie\Desktop\HTTP\HTTP\obj\Debug\net9.0\refint\HTTP.dll
 C:\Users\danie\Desktop\HTTP\HTTP\obj\Debug\net9.0\HTTP.pdb
 C:\Users\danie\Desktop\HTTP\HTTP\obj\Debug\net9.0\HTTP.genruntimeconfig.cache
 C:\Users\danie\Desktop\HTTP\HTTP\obj\Debug\net9.0\ref\HTTP.dll
+C:\Users\danie\Desktop\HTTP\HTTP\obj\Debug\net9.0\HTTP.sourcelink.json

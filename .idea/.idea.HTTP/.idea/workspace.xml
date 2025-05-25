@@ -7,7 +7,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a09a0eff-dd80-4d28-8b86-1dfecc7aa447" name="Changes" comment="" />
+    <list default="true" id="a09a0eff-dd80-4d28-8b86-1dfecc7aa447" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/HTTP/Models/Category.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTTP/Models/CreateCategoryDto.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTTP/Models/Product.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTTP/Services/ShopApiService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTTP/UI/MenuHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UtmShop/.idea/.idea.UtmShop/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HTTP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HTTP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTP/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HTTP/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTP/bin/Debug/net9.0/HTTP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/HTTP/bin/Debug/net9.0/HTTP.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTP/bin/Debug/net9.0/HTTP.exe" beforeDir="false" afterPath="$PROJECT_DIR$/HTTP/bin/Debug/net9.0/HTTP.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTP/bin/Debug/net9.0/HTTP.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/HTTP/bin/Debug/net9.0/HTTP.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTP/obj/Debug/net9.0/HTTP.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HTTP/obj/Debug/net9.0/HTTP.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTP/obj/Debug/net9.0/HTTP.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HTTP/obj/Debug/net9.0/HTTP.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTP/obj/Debug/net9.0/HTTP.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HTTP/obj/Debug/net9.0/HTTP.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTP/obj/Debug/net9.0/HTTP.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/HTTP/obj/Debug/net9.0/HTTP.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTP/obj/Debug/net9.0/HTTP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/HTTP/obj/Debug/net9.0/HTTP.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTP/obj/Debug/net9.0/HTTP.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/HTTP/obj/Debug/net9.0/HTTP.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTP/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/HTTP/obj/Debug/net9.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTP/obj/Debug/net9.0/ref/HTTP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/HTTP/obj/Debug/net9.0/ref/HTTP.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTP/obj/Debug/net9.0/refint/HTTP.dll" beforeDir="false" afterPath="$PROJECT_DIR$/HTTP/obj/Debug/net9.0/refint/HTTP.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UtmShop/bin/Debug/net9.0/UtmShop.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UtmShop/bin/Debug/net9.0/UtmShop.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UtmShop/bin/Debug/net9.0/UtmShop.exe" beforeDir="false" afterPath="$PROJECT_DIR$/UtmShop/bin/Debug/net9.0/UtmShop.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UtmShop/bin/Debug/net9.0/UtmShop.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UtmShop/bin/Debug/net9.0/UtmShop.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UtmShop/obj/Debug/net9.0/UtmShop.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UtmShop/obj/Debug/net9.0/UtmShop.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UtmShop/obj/Debug/net9.0/UtmShop.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UtmShop/obj/Debug/net9.0/UtmShop.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UtmShop/obj/Debug/net9.0/UtmShop.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UtmShop/obj/Debug/net9.0/UtmShop.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UtmShop/obj/Debug/net9.0/UtmShop.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UtmShop/obj/Debug/net9.0/UtmShop.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UtmShop/obj/Debug/net9.0/UtmShop.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UtmShop/obj/Debug/net9.0/UtmShop.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UtmShop/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/UtmShop/obj/Debug/net9.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UtmShop/obj/Debug/net9.0/ref/UtmShop.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UtmShop/obj/Debug/net9.0/ref/UtmShop.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UtmShop/obj/Debug/net9.0/refint/UtmShop.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UtmShop/obj/Debug/net9.0/refint/UtmShop.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UtmShop/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/UtmShop/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UtmShop/testdb.db" beforeDir="false" afterPath="$PROJECT_DIR$/UtmShop/testdb.db" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +51,11 @@
     <option name="firstShow" value="false" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -99,8 +138,17 @@
       <workItem from="1744879693033" duration="1466000" />
       <workItem from="1747906340545" duration="408000" />
       <workItem from="1748209297597" duration="2427000" />
-      <workItem from="1748211772333" duration="1050000" />
+      <workItem from="1748211772333" duration="3429000" />
     </task>
+    <task id="LOCAL-00001" summary="asdas">
+      <option name="closed" value="true" />
+      <created>1748212941310</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748212941310</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,7 +161,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -121,6 +181,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="asdas" />
+    <option name="LAST_COMMIT_MESSAGE" value="asdas" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
