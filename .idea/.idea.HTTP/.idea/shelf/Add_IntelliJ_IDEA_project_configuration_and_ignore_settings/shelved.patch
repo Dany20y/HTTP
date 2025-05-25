@@ -1,0 +1,76 @@
+Index: .idea/.idea.HTTP/.idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.idea.HTTP/.idea/.gitignore b/.idea/.idea.HTTP/.idea/.gitignore
+new file mode 100644
+--- /dev/null	(date 1744205895689)
++++ b/.idea/.idea.HTTP/.idea/.gitignore	(date 1744205895689)
+@@ -0,0 +1,13 @@
++# Default ignored files
++/shelf/
++/workspace.xml
++# Rider ignored files
++/modules.xml
++/projectSettingsUpdater.xml
++/contentModel.xml
++/.idea.HTTP.iml
++# Editor-based HTTP Client requests
++/httpRequests/
++# Datasource local storage ignored files
++/dataSources/
++/dataSources.local.xml
+Index: .idea/.idea.HTTP/.idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.idea.HTTP/.idea/vcs.xml b/.idea/.idea.HTTP/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1748211880874)
++++ b/.idea/.idea.HTTP/.idea/vcs.xml	(date 1748211880874)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/.idea.HTTP/.idea/indexLayout.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.idea.HTTP/.idea/indexLayout.xml b/.idea/.idea.HTTP/.idea/indexLayout.xml
+new file mode 100644
+--- /dev/null	(date 1744205886869)
++++ b/.idea/.idea.HTTP/.idea/indexLayout.xml	(date 1744205886869)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="UserContentModel">
++    <attachedFolders />
++    <explicitIncludes />
++    <explicitExcludes />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/.idea.HTTP/.idea/inspectionProfiles/Project_Default.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.idea.HTTP/.idea/inspectionProfiles/Project_Default.xml b/.idea/.idea.HTTP/.idea/inspectionProfiles/Project_Default.xml
+new file mode 100644
+--- /dev/null	(date 1747906339725)
++++ b/.idea/.idea.HTTP/.idea/inspectionProfiles/Project_Default.xml	(date 1747906339725)
+@@ -0,0 +1,6 @@
++<component name="InspectionProjectProfileManager">
++  <profile version="1.0">
++    <option name="myName" value="Project Default" />
++    <inspection_tool class="PointlessBitwiseExpressionJS" enabled="false" level="WARNING" enabled_by_default="false" />
++  </profile>
++</component>
+\ No newline at end of file
